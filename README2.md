@@ -31,4 +31,6 @@ CREATE DATABASE ficha2;
 `config.txt`
 
 [MeuGitHub](https://github.com/devgabimoraes/avaliacao-git-gabriela/blob/main/README2.md?plain=1)
+
+
 ![MeuGitImagem](https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png)
